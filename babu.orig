@@ -1,0 +1,7 @@
+line 1
+line 2
+<<<<<<< HEAD
+line 3 line 4 line 11
+=======
+line 3 line 4 line 10
+>>>>>>> 189d2dc44a7e714b66a148b4e9f4d475e7297688
